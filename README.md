@@ -116,6 +116,7 @@ https://ghgo.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
 
 ```bash
 https://ghgo.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
+https://ghgo.xyz/raw.githubusercontent.com/hktkjj/Guovin-IPTV/master/output/result.txt
 ```
 
 或
