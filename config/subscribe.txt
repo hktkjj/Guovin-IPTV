@@ -22,3 +22,4 @@ https://raw.githubusercontent.com/xiongjian83/iptv/main/xj.txt
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://raw.githubusercontent.com/gggwang/gggdeng/refs/heads/master/ZB/zby.txt
 https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
+https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.m3u
