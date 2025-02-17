@@ -1,0 +1,13 @@
+# 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
+# This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
+epg.pw
+skype.serv00.net
+iptv.yjxfz.com
+live-hls-web-ajb.getaj.net
+live.goodiptv.club
+hc73k3dhwo5gfkt.wcetv.com
+stream1.freetv.fun
+zw9999.cnstream.top
+zsntlqj.xicp.net
+https://godmusic.bs2dl.yy.com/YW1pbjYxNTk0YWU5OTIwNjRkYTE5ZWM4ZDc4MDllNzhmMjUyLTEzNDI2OTM1OA==?Cf=cf.mp4
+https://godmusic.bs2dl.yy.com/YW1pbmVjMTVjYTU5YWE5ODRjZGQ4YzUyY2Q2YTZmN2RkODU5LTUwMjg4OTkyMw==?Cf=cf.mp4
