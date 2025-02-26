@@ -10,14 +10,11 @@ done
 
 . /.venv/bin/activate
 
-current_crontab=$(crontab -l)
+crontab -d
 
-for cron_value in "$UPDATE_CRON1" "$UPDATE_CRON2"; do
-  cron_command="$cron_value cd $APP_WORKDIR && /.venv/bin/python main.py"
-  if [ -n "$cron_value" ] && ! echo "$current_crontab" | grep -q "$cron_command"; then
-    (crontab -l ; echo "$cron_command") | crontab -
-  fi
-done
+if [ -n "$UPDATE_CRON" ]; then
+  (crontab -l ; echo "$UPDATE_CRON cd $APP_WORKDIR && /.venv/bin/python main.py") | crontab -
+fi
 
 # dcron log level
 # LOG_EMERG	0	[* system is unusable *]
